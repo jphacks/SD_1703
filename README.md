@@ -1,6 +1,6 @@
 # Nomi Scheduler
 
-[![Nomi Scheduler](http://github.com/jphacks/SD_1703/tree/master/docs/thumbnail.png)](https://youtu.be/acQqrd56FaM)
+[![Nomi Scheduler](thumbnail.png)](https://youtu.be/acQqrd56FaM)
 
 ## 製品概要
 ### SKD Tech

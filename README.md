@@ -1,6 +1,6 @@
-# Nomi Scheduler
+# 大人数日程調整アシスタント
 
-[![Nomi Scheduler](docs/thumbnail.png)](https://youtu.be/acQqrd56FaM)
+[![大人数日程調整アシスタント](thumbnail.png)](https://youtu.be/acQqrd56FaM)
 
 ## 製品概要
 ### SKD Tech

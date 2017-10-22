@@ -1,6 +1,6 @@
 # 大人数日程調整アシスタント
 
-[![大人数日程調整アシスタント](thumbnail.PNG)](https://youtu.be/acQqrd56FaM)
+[![大人数日程調整アシスタント](thumbnail.PNG)](https://youtu.be/qlhcA_fLS0A)
 
 ## 製品概要
 ### SKD Tech

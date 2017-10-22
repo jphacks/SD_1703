@@ -1,6 +1,6 @@
 # Nomi Scheduler
 
-[![Nomi Scheduler](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
+[![Nomi Scheduler](https://github.com/jphacks/SD_1703/tree/master/docs/thumbnail.PNG)](https://youtu.be/acQqrd56FaM)
 
 ## 製品概要
 ### SKD Tech

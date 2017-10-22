@@ -56,8 +56,7 @@
 ### 活用した技術
 #### API・データ
 今回スポンサーから提供されたAPI、製品などの外部技術があれば記述をして下さい。
-*Google Apps Script
-* 
+* Goodle Apps Script
 * 
 * 
 
